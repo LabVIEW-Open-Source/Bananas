@@ -12,6 +12,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Assertion Strategies -- cluster.ctl" Type="VI" URL="../Assertion Strategies -- cluster.ctl"/>
 		<Item Name="AssertTrue.lvclass" Type="LVClass" URL="../AssertTrue/AssertTrue.lvclass"/>
+		<Item Name="AssertFalse.lvclass" Type="LVClass" URL="../AssertFalse/AssertFalse.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Find VIPath From VIName (In Memory).vi" Type="VI" URL="../Find VIPath From VIName (In Memory).vi"/>
@@ -20,6 +21,7 @@
 	<Item Name="Unconfigure Banana.vi" Type="VI" URL="../Unconfigure Banana.vi"/>
 	<Item Name="Define Test.vi" Type="VI" URL="../Define Test.vi"/>
 	<Item Name="Assert True.vi" Type="VI" URL="../Assert True.vi"/>
+	<Item Name="Assert False.vi" Type="VI" URL="../Assert False.vi"/>
 	<Item Name="Banana.lvclass" Type="LVClass" URL="../Banana/Banana.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
