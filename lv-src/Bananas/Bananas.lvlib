@@ -11,17 +11,37 @@
 	<Item Name="Strategies" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Assertion Strategies -- cluster.ctl" Type="VI" URL="../Assertion Strategies -- cluster.ctl"/>
+		<Item Name="Test Strategies -- cluster.ctl" Type="VI" URL="../Test Strategies -- cluster.ctl"/>
+		<Item Name="DefineTest.lvclass" Type="LVClass" URL="../DefineTest/DefineTest.lvclass"/>
 		<Item Name="AssertTrue.lvclass" Type="LVClass" URL="../AssertTrue/AssertTrue.lvclass"/>
 		<Item Name="AssertFalse.lvclass" Type="LVClass" URL="../AssertFalse/AssertFalse.lvclass"/>
+		<Item Name="AssertEqualValue.lvclass" Type="LVClass" URL="../AssertEqualValue/AssertEqualValue.lvclass"/>
+		<Item Name="AssertEqualType.lvclass" Type="LVClass" URL="../AssertEqualType/AssertEqualType.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
-		<Item Name="Find VIPath From VIName (In Memory).vi" Type="VI" URL="../Find VIPath From VIName (In Memory).vi"/>
+		<Item Name="Find VIPath From VIName (In Memory).vi" Type="VI" URL="../Utilities/Find VIPath From VIName (In Memory).vi"/>
+		<Item Name="Banana_Disconnect TypeDef.vi" Type="VI" URL="../Utilities/Banana_Disconnect TypeDef.vi"/>
+		<Item Name="Banana_Equal Value Comparison.vi" Type="VI" URL="../Utilities/Banana_Equal Value Comparison.vi"/>
+		<Item Name="Banana_Equal Type Comparison.vi" Type="VI" URL="../Utilities/Banana_Equal Type Comparison.vi"/>
 	</Item>
 	<Item Name="Configure Banana.vi" Type="VI" URL="../Configure Banana.vi"/>
 	<Item Name="Unconfigure Banana.vi" Type="VI" URL="../Unconfigure Banana.vi"/>
 	<Item Name="Define Test.vi" Type="VI" URL="../Define Test.vi"/>
 	<Item Name="Assert True.vi" Type="VI" URL="../Assert True.vi"/>
 	<Item Name="Assert False.vi" Type="VI" URL="../Assert False.vi"/>
+	<Item Name="Assert Equal Value_Variant.vi" Type="VI" URL="../Assert Equal Value_Variant.vi"/>
+	<Item Name="Assert Equal Type_Variant.vi" Type="VI" URL="../Assert Equal Type_Variant.vi"/>
+	<Item Name="Assert Equal Value and Type_Variant.vi" Type="VI" URL="../Assert Equal Value and Type_Variant.vi"/>
+	<Item Name="Assert Almost Equal_Float.vi" Type="VI" URL="../Assert Almost Equal_Float.vi"/>
+	<Item Name="Assert Not Equal Value_Variant.vi" Type="VI" URL="../Assert Not Equal Value_Variant.vi"/>
+	<Item Name="Assert Not Equal Value and Type_Variant.vi" Type="VI" URL="../Assert Not Equal Value and Type_Variant.vi"/>
+	<Item Name="Assert Not Equal Type_Variant.vi" Type="VI" URL="../Assert Not Equal Type_Variant.vi"/>
+	<Item Name="Assert Greater_Variant.vi" Type="VI" URL="../Assert Greater_Variant.vi"/>
+	<Item Name="Assert Greater Or Equal_Variant.vi" Type="VI" URL="../Assert Greater Or Equal_Variant.vi"/>
+	<Item Name="Assert Less_Variant.vi" Type="VI" URL="../Assert Less_Variant.vi"/>
+	<Item Name="Assert Less Or Equal_Variant.vi" Type="VI" URL="../Assert Less Or Equal_Variant.vi"/>
+	<Item Name="Assert Error.vi" Type="VI" URL="../Assert Error.vi"/>
+	<Item Name="Assert Not Error.vi" Type="VI" URL="../Assert Not Error.vi"/>
 	<Item Name="Banana.lvclass" Type="LVClass" URL="../Banana/Banana.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
