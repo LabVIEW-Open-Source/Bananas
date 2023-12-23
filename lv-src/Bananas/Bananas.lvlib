@@ -17,12 +17,17 @@
 		<Item Name="AssertFalse.lvclass" Type="LVClass" URL="../AssertFalse/AssertFalse.lvclass"/>
 		<Item Name="AssertEqualValue.lvclass" Type="LVClass" URL="../AssertEqualValue/AssertEqualValue.lvclass"/>
 		<Item Name="AssertEqualType.lvclass" Type="LVClass" URL="../AssertEqualType/AssertEqualType.lvclass"/>
+		<Item Name="AssertCompareValue.lvclass" Type="LVClass" URL="../AssertCompareValue/AssertCompareValue.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Find VIPath From VIName (In Memory).vi" Type="VI" URL="../Utilities/Find VIPath From VIName (In Memory).vi"/>
 		<Item Name="Banana_Disconnect TypeDef.vi" Type="VI" URL="../Utilities/Banana_Disconnect TypeDef.vi"/>
 		<Item Name="Banana_Equal Value Comparison.vi" Type="VI" URL="../Utilities/Banana_Equal Value Comparison.vi"/>
 		<Item Name="Banana_Equal Type Comparison.vi" Type="VI" URL="../Utilities/Banana_Equal Type Comparison.vi"/>
+		<Item Name="Banana_Not Equal Value Comparison.vi" Type="VI" URL="../Utilities/Banana_Not Equal Value Comparison.vi"/>
+		<Item Name="Banana_Not Equal Type Comparison.vi" Type="VI" URL="../Utilities/Banana_Not Equal Type Comparison.vi"/>
+		<Item Name="Banana_Greater Value Comparison.vi" Type="VI" URL="../Utilities/Banana_Greater Value Comparison.vi"/>
+		<Item Name="Banana_isNumericalType.vi" Type="VI" URL="../Utilities/Banana_isNumericalType.vi"/>
 	</Item>
 	<Item Name="Configure Banana.vi" Type="VI" URL="../Configure Banana.vi"/>
 	<Item Name="Unconfigure Banana.vi" Type="VI" URL="../Unconfigure Banana.vi"/>
