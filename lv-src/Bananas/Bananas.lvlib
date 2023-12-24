@@ -19,6 +19,7 @@
 		<Item Name="AssertEqualValue.lvclass" Type="LVClass" URL="../AssertEqualValue/AssertEqualValue.lvclass"/>
 		<Item Name="AssertEqualType.lvclass" Type="LVClass" URL="../AssertEqualType/AssertEqualType.lvclass"/>
 		<Item Name="AssertCompareValue.lvclass" Type="LVClass" URL="../AssertCompareValue/AssertCompareValue.lvclass"/>
+		<Item Name="AssertAlmostEqualValue.lvclass" Type="LVClass" URL="../AssertAlmostEqual/AssertAlmostEqualValue.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Find VIPath From VIName (In Memory).vi" Type="VI" URL="../Utilities/Find VIPath From VIName (In Memory).vi"/>
