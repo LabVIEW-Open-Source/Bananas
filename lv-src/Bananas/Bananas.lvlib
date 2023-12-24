@@ -15,6 +15,7 @@
 		<Item Name="DefineTest.lvclass" Type="LVClass" URL="../DefineTest/DefineTest.lvclass"/>
 		<Item Name="AssertTrue.lvclass" Type="LVClass" URL="../AssertTrue/AssertTrue.lvclass"/>
 		<Item Name="AssertFalse.lvclass" Type="LVClass" URL="../AssertFalse/AssertFalse.lvclass"/>
+		<Item Name="AssertError.lvclass" Type="LVClass" URL="../AssetError/AssertError.lvclass"/>
 		<Item Name="AssertEqualValue.lvclass" Type="LVClass" URL="../AssertEqualValue/AssertEqualValue.lvclass"/>
 		<Item Name="AssertEqualType.lvclass" Type="LVClass" URL="../AssertEqualType/AssertEqualType.lvclass"/>
 		<Item Name="AssertCompareValue.lvclass" Type="LVClass" URL="../AssertCompareValue/AssertCompareValue.lvclass"/>
