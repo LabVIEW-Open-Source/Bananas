@@ -13,9 +13,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="Run Banana Test Suite.vi" Type="VI" URL="../Run Banana Test Suite.vi"/>
 			<Item Name="Run Banana Single Test.vi" Type="VI" URL="../Run Banana Single Test.vi"/>
+			<Item Name="Run Banana Test Suite.vi" Type="VI" URL="../Run Banana Test Suite.vi"/>
 		</Item>
+		<Item Name="Banana.Caraya.lvlib" Type="Library" URL="../Banana.Caraya/Banana.Caraya.lvlib"/>
 		<Item Name="Bananas.lvlib" Type="Library" URL="../Bananas/Bananas.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -141,6 +142,7 @@
 				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
 				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
+				<Item Name="SHA-1.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Open Source Project/Cryptographic Functions/SHA-1/SHA-1.lvlib"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
