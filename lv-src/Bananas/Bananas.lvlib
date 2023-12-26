@@ -13,6 +13,7 @@
 		<Item Name="Assertion Strategies -- cluster.ctl" Type="VI" URL="../Assertion Strategies -- cluster.ctl"/>
 		<Item Name="Test Strategies -- cluster.ctl" Type="VI" URL="../Test Strategies -- cluster.ctl"/>
 		<Item Name="DefineSuite.lvclass" Type="LVClass" URL="../DefineSuite/DefineSuite.lvclass"/>
+		<Item Name="DestroySuite.lvclass" Type="LVClass" URL="../DestroySuite/DestroySuite.lvclass"/>
 		<Item Name="DefineTest.lvclass" Type="LVClass" URL="../DefineTest/DefineTest.lvclass"/>
 		<Item Name="AssertTrue.lvclass" Type="LVClass" URL="../AssertTrue/AssertTrue.lvclass"/>
 		<Item Name="AssertFalse.lvclass" Type="LVClass" URL="../AssertFalse/AssertFalse.lvclass"/>
@@ -33,10 +34,8 @@
 		<Item Name="Banana_isNumericalType.vi" Type="VI" URL="../Utilities/Banana_isNumericalType.vi"/>
 		<Item Name="Empty Strategies Map.vi" Type="VI" URL="../Utilities/Empty Strategies Map.vi"/>
 	</Item>
-	<Item Name="Pick Banana.vi" Type="VI" URL="../Pick Banana.vi"/>
+	<Item Name="Configure Banana.vi" Type="VI" URL="../Configure Banana.vi"/>
 	<Item Name="Inspect Banana.vi" Type="VI" URL="../Inspect Banana.vi"/>
-	<Item Name="Reset Banana.vi" Type="VI" URL="../Reset Banana.vi"/>
-	<Item Name="Digest Banana.vi" Type="VI" URL="../Digest Banana.vi"/>
 	<Item Name="Banana.lvclass" Type="LVClass" URL="../Banana/Banana.lvclass"/>
 	<Item Name="BananaPeel.lvclass" Type="LVClass" URL="../BananaPeel/BananaPeel.lvclass"/>
 	<Item Name="GUID.lvclass" Type="LVClass" URL="../BananaPeel.Example/GUID.lvclass"/>

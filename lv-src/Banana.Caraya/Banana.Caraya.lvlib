@@ -5,5 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Platano.CarayaTestSuite.lvclass" Type="LVClass" URL="../Platano.CarayaTestSuite/Platano.CarayaTestSuite.lvclass"/>
-	<Item Name="Properties.Banana.lvclass" Type="LVClass" URL="../Properties.Banana/Properties.Banana.lvclass"/>
+	<Item Name="Properties.Banana.lvclass" Type="LVClass" URL="../Properties.Banana/Properties.Banana.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>
