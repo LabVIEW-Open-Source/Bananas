@@ -4,8 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Platano.CarayaTestSuite.lvclass" Type="LVClass" URL="../Platano.CarayaTestSuite/Platano.CarayaTestSuite.lvclass"/>
 	<Item Name="Properties.Banana.lvclass" Type="LVClass" URL="../Properties.Banana/Properties.Banana.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Leaf.Properties.lvclass" Type="LVClass" URL="../Leaf.Properties/Leaf.Properties.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Leaf.Properties.Assert.lvclass" Type="LVClass" URL="../Leaf.Properties.Assert/Leaf.Properties.Assert.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 </Library>
