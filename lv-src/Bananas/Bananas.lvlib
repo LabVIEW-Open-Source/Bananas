@@ -40,6 +40,6 @@
 	<Item Name="BananaPeel.lvclass" Type="LVClass" URL="../BananaPeel/BananaPeel.lvclass"/>
 	<Item Name="GUID.lvclass" Type="LVClass" URL="../BananaPeel.Example/GUID.lvclass"/>
 	<Item Name="Project.lvclass" Type="LVClass" URL="../BananaPeel.Project/Project.lvclass"/>
-	<Item Name="RequirementsMap.lvclass" Type="LVClass" URL="../Requirements/RequirementsMap.lvclass"/>
+	<Item Name="RequirementMap.lvclass" Type="LVClass" URL="../Requirements/RequirementMap.lvclass"/>
 	<Item Name="Platano.lvclass" Type="LVClass" URL="../Platano/Platano.lvclass"/>
 </Library>
