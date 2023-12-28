@@ -197,7 +197,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{33735122-0071-4D60-ACBA-881994BA9F0D}</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">banana-cli.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../_builds/banana-cli/banana-cli.exe</Property>
