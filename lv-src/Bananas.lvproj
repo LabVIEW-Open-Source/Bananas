@@ -19,6 +19,7 @@
 		</Item>
 		<Item Name="Banana.Caraya.lvlib" Type="Library" URL="../Banana.Caraya/Banana.Caraya.lvlib"/>
 		<Item Name="Bananas.lvlib" Type="Library" URL="../Bananas/Bananas.lvlib"/>
+		<Item Name="pip_filter -- enum.ctl" Type="VI" URL="../Bananas/Pips/pip_filter -- enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="7F74EC14CB6F87B712ADB3E4000AA489Array Size(s)__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/_Caraya_internal_deps/7F74EC14CB6F87B712ADB3E4000AA489Array Size(s)__ogtk.vi"/>
