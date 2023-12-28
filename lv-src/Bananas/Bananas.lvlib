@@ -12,6 +12,7 @@
 		<Item Name="GUID.lvclass" Type="LVClass" URL="../BananaPeel.Example/GUID.lvclass"/>
 		<Item Name="Project.lvclass" Type="LVClass" URL="../BananaPeel.Project/Project.lvclass"/>
 		<Item Name="RequirementMap.lvclass" Type="LVClass" URL="../Requirements/RequirementMap.lvclass"/>
+		<Item Name="TraceabilityMatrix.lvclass" Type="LVClass" URL="../TraceabilityMatrix/TraceabilityMatrix.lvclass"/>
 	</Item>
 	<Item Name="Strategies" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -51,4 +52,5 @@
 	<Item Name="Leaf.Assertion.lvclass" Type="LVClass" URL="../Leaf.Assertion/Leaf.Assertion.lvclass"/>
 	<Item Name="Leaf.TestCase.lvclass" Type="LVClass" URL="../Leaf.TestCase/Leaf.TestCase.lvclass"/>
 	<Item Name="Leaf.TestSuite.lvclass" Type="LVClass" URL="../Leaf.TestSuite/Leaf.TestSuite.lvclass"/>
+	<Item Name="Pips.lvclass" Type="LVClass" URL="../Pips/Pips.lvclass"/>
 </Library>

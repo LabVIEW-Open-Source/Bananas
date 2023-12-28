@@ -18,4 +18,7 @@
 	<Item Name="Leaf.Properties.Suite.lvclass" Type="LVClass" URL="../Leaf.Properties.Suite/Leaf.Properties.Suite.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Pips.TestResults.lvclass" Type="LVClass" URL="../Pips.TestResults/Pips.TestResults.lvclass">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>
