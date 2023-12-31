@@ -1,0 +1,34 @@
+{
+	"VBATT-0001": {
+		"description": "Board powers on at low voltage",
+		"testCases": ["Battery Voltage - LOW"]
+	},
+	"VBATT-0002": {
+		"description": "Board protects against short to ground",
+		"testCases": ["Battery Voltage - SHORT", "Battery Voltage - REVERSE"]
+	},
+	"VBATT-0003": {
+		"description": "Board powers at nominal voltage",
+		"testCases": ["Battery Voltage - NOMINAL"]
+	},
+	"VBATT-0004": {
+		"description": "Board powers at high voltage",
+		"testCases": ["Battery Voltage - HIGH"]
+	},
+	"VBATT-0005": {
+		"description": "Board protects against inverted high voltage",
+		"testCases": ["Battery Voltage - REVERSE", "Battery Voltage - HIGH"]
+	},
+	"VBATT-0006": {
+		"description": "Board power up time",
+		"testCases": []
+	},
+	"VCURR-0001": {
+		"description": "Board draws nominal current in steady state",
+		"testCases": []
+	},
+	"VCURR-0002": {
+		"description": "Board draws nominal current during transient power-up state",
+		"testCases": []
+	}
+}

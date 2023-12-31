@@ -1,0 +1,6 @@
+testCase/ReqId,VBATT-0001,VBATT-0002,VBATT-0003,VBATT-0004,VBATT-0005,VBATT-0006
+BatteryVoltage - LOW,x,,,,,
+BatteryVoltage - NOMINAL,,,x,,,
+BatteryVoltage - HIGH,,,,x,x,
+BatteryVoltage - SHORT,,x,,,,
+BatteryVoltage - REVERSE,x,x,,,,

@@ -10,6 +10,7 @@
 </Property>
 	<Item Name="Peels" Type="Folder">
 		<Item Name="GUID.lvclass" Type="LVClass" URL="../BananaPeel.Example/GUID.lvclass"/>
+		<Item Name="Environment.lvclass" Type="LVClass" URL="../Environment/Environment.lvclass"/>
 		<Item Name="Project.lvclass" Type="LVClass" URL="../BananaPeel.Project/Project.lvclass"/>
 		<Item Name="RequirementMap.lvclass" Type="LVClass" URL="../Requirements/RequirementMap.lvclass"/>
 		<Item Name="TraceabilityMatrix.lvclass" Type="LVClass" URL="../TraceabilityMatrix/TraceabilityMatrix.lvclass"/>
