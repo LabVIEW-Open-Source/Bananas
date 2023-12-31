@@ -43,6 +43,9 @@
 		<Item Name="Load Class Instance (parameter).vi" Type="VI" URL="../Utilities/Load Class Instance (parameter).vi"/>
 		<Item Name="Prepare CLI Arguments.vi" Type="VI" URL="../../Prepare CLI Arguments.vi"/>
 	</Item>
+	<Item Name="Datastores" Type="Folder">
+		<Item Name="Datastore.Dictionaries.lvclass" Type="LVClass" URL="../Datastore.Dictionaries/Datastore.Dictionaries.lvclass"/>
+	</Item>
 	<Item Name="Configure Banana.vi" Type="VI" URL="../Configure Banana.vi"/>
 	<Item Name="Inspect Banana.vi" Type="VI" URL="../Inspect Banana.vi"/>
 	<Item Name="Banana.lvclass" Type="LVClass" URL="../Banana/Banana.lvclass"/>
